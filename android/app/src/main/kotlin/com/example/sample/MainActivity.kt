@@ -1,4 +1,4 @@
-package com.example.pms_project
+package com.example.sample
 
 import io.flutter.embedding.android.FlutterActivity
 

@@ -1,4 +1,4 @@
-# pms_project
+# sample
 
 A new Flutter project.
 
